@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ks-push-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ks-push-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ks-push-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ks-push-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ks-push-dependency/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ks-push-dependency/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ks-push-job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ks-push-job/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ks-push-repository/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ks-push-repository/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ks-push-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ks-push-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ks-push-stream/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ks-push-stream/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
